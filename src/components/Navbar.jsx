@@ -5,7 +5,7 @@ const Navbar = () => {
     <>
       {/* navigation bar starts */}
       <nav className="navbar navbar-expand-lg navbar-dark lokanathnavbar">
-        <a className="navbar-brand text-white font-weight-bold" href="/">GCEK NAVAL NCC</a>
+        <a className="navbar-brand text-white font-weight-bold " href="/">GCEK NAVAL NCC</a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>

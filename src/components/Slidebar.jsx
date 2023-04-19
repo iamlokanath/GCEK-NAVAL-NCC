@@ -35,7 +35,7 @@ const Slidebar = () => {
       {/* Slidebar ends */}
       <h2 className="text-xl text-white my-3 ml-4">Join The World’s Largest Youth Organization</h2>
       <h3 className="text-xl text-primary my-2 ml-4">National Cadets Corps</h3>
-      <button type="button" class="btn btn-dark my-2 ml-4 text-primary font-weight-bold">Join Us</button>
+      <button type="button" class="btn btn-dark my-2 ml-4 text-white font-weight-bold">Join Us</button>
       </div>
     </>
   )
