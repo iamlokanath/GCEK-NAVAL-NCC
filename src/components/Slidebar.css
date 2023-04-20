@@ -1,3 +1,7 @@
 body{
-    background: #000000;
+    /* background: #000000; */
+}
+.lokanathbtn{
+    margin-left: 5rem;
+    border-radius: 15px;
 }
