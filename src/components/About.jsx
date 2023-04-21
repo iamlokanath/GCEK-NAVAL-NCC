@@ -1,8 +1,7 @@
 import React from 'react'
 import './About.css'
-import './test1.css'
-import Photo3 from './components/photo3.jpg'
-import Photo5 from './components/photo5.jpg'
+import Photo3 from './photo3.jpg'
+import Photo5 from './photo5.jpg'
 const About = () => {
     return (
         <>
