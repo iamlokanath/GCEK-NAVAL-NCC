@@ -9,3 +9,6 @@ h5 span {
 .text-warning{
     filter: brightness(100%);
 }
+.navbar {
+    margin: 0 0 -10px 0;
+}
