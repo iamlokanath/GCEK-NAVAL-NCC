@@ -10,7 +10,7 @@ const Achievements = () => {
         {/* <!-- Team --> */}
         <div className="site-heading text-center">
         <h2>Our <span>Achivements</span></h2>
-        <h4>GCEK Naval NCC, Bhawanipatna</h4>
+        <h4>Celebrating Our Accomplishments: A Showcase of Our Achievements</h4>
       </div>
 
         <section id="team" className="pb-5">

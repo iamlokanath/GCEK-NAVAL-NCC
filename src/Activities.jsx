@@ -9,7 +9,7 @@ const Activities = () => {
                 <div className="col-md-12">
                     <div className="site-heading text-center">
                         <h2>Our <span>Activities</span></h2>
-                        <h4>Checkout our leatest features</h4>
+                        <h4>Discover the Thrill of Adventure with Our Exciting Activities</h4>
                     </div>
                 </div>
             </div>
@@ -20,7 +20,7 @@ const Activities = () => {
                                 <i className="fas fa-tv"></i>
                             </div>
                             <div className="info">
-                                <h4>Monitoring</h4>
+                                <h4>Theory Class</h4>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
                                 </p>
                             </div>
@@ -32,7 +32,7 @@ const Activities = () => {
                                 <i className="fas fa-headset"></i>
                             </div>
                             <div className="info">
-                                <h4>Support Chat</h4>
+                                <h4>Drill</h4>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
                                 </p>
                             </div>
@@ -44,7 +44,7 @@ const Activities = () => {
                                 <i className="fas fa-chart-line"></i>
                             </div>
                             <div className="info">
-                                <h4>System Analysis</h4>
+                                <h4>Mountain Trekking</h4>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
                                 </p>
                             </div>
@@ -56,7 +56,7 @@ const Activities = () => {
                                 <i className="fas fa-pen-fancy"></i>
                             </div>
                             <div className="info">
-                                <h4>Basic Design</h4>
+                                <h4>Boat Pooling</h4>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
                                 </p>
                             </div>
@@ -68,7 +68,7 @@ const Activities = () => {
                                 <i className="fas fa-tachometer-alt"></i>
                             </div>
                             <div className="info">
-                                <h4>First Run</h4>
+                                <h4>ATC</h4>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
                                 </p>
                             </div>
@@ -80,7 +80,7 @@ const Activities = () => {
                                 <i className="fas fa-diagnoses"></i>
                             </div>
                             <div className="info">
-                                <h4>Get Better</h4>
+                                <h4>National Camps</h4>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
                                 </p>
                             </div>

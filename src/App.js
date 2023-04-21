@@ -4,7 +4,8 @@ import './App.css';
 import Home from './Home';
 import Navigation from './Navigation';
 import Achievements from './components/Achievements';
-import Contact from './components/Contact';
+// import Contact from './components/Contact';
+import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 // import Navbar from './components/Navbar';
 // import Slidebar from './components/Slidebar';
@@ -19,7 +20,8 @@ function App() {
     <About/>
     <Achievements/> 
     <Activities/>
-    <Contact/>
+    <ContactUs/>
+    {/* <Contact/> */}
     <Footer/>
     </>
   );

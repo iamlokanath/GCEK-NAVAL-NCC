@@ -1,8 +1,26 @@
-.lokanathfooter{
+/* .lokanathfooter{
     background: #232323;
     border-top-left-radius: 100px;
     border-top-right-radius: 100px;
+} */
+.lokanathfooter {
+    background: #f0f0f0;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0;
+    margin-top: 6rem;
 }
+h4 span {
+  color: #ffaf5a;
+}
+.lokanath h5 {
+  display: inline-block;
+  padding-bottom: 20px;
+  position: relative;
+  text-transform: capitalize;
+  z-index: 1;
+}
+
+
 /* body {
     margin:0;
     padding:0;
@@ -17,7 +35,7 @@
     transform: translateY(-50%);
     width: 100%;
     /* text-align: center; */
-    margin-top: 4rem;
+    margin-top: 3rem;
   }
   
   .lokanbtn {
@@ -111,3 +129,6 @@
       top: -10%;
     }
   }
+  .lokanathparagraph {
+    margin: -42px 0 0 46px;
+}

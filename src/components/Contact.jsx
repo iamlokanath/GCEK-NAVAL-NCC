@@ -7,7 +7,7 @@ const Contact = () => {
         <h3 className="text-center text-white">Contact <span id="lokanathblue">Us</span></h3>
         <p className="text-center text-white">Any questions or remarks? Just write a message!</p>
       </div>
-
+      
       <div className="d-flex justify-content-center align-items-center text-white text-center">
         <div className="row">
           <div className="col-sm-6 mt-5">
