@@ -7,7 +7,7 @@ const ContactUs = () => {
         <>
             <div className="site-heading text-center">
                 <h2>Contact <span>Us</span></h2>
-                <h4>GCEK Naval NCC, Bhawanipatna</h4>
+                <h4>Get In Touch With Us: Contact Our Team For Any Queries or Support</h4>
             </div>
 
             <div className="slide" id="slide5" data-slide="5" data-stellar-background-ratio="0.5">
@@ -19,7 +19,7 @@ const ContactUs = () => {
                             <h2>CONTACT</h2>
                             <p className="information"><span className="icon-location"> ADRESS: </span>Government College Of Engineering, Kalahandi, Bhawanipatna</p>
                             <p className="information"><span className="icon-phone-2"> TELEPHONE: </span>90 90 90 90 90 90</p>
-                            <a className="btn" href="https://goo.gl/maps/8GlbZ">Send Email</a>
+                            <a className="btn" href="/">Send Email</a>
                             <div className="clear"></div>
                         </div>
                         <div className="grid_8 omega">

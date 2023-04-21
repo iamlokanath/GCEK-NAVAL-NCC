@@ -1,5 +1,5 @@
 import React from 'react'
-import Photo from 'E:/Code with Lokanath/Project/@2023/React/gcek-ncc/src/components/slider.jpg'
+import Photo from './slider.jpg'
 const Home = () => {
   return (
     <>
