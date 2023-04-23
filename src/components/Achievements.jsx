@@ -34,30 +34,9 @@ const Achievements = () => {
                     <div className="backside">
                       <div className="card">
                         <div className="card-body text-center mt-4">
-                          <h4 className="card-title">Sunlimetech</h4>
-                          <p className="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe ipsum fuga mollitia fugiat, sint vitae, libero aliquam vero alias voluptatum odit delectus dolore laborum quidem doloribus nulla fugit eveniet! Incidunt..</p>
-                          <ul className="list-inline">
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-facebook"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-twitter"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-skype"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-google"></i>
-                              </a>
-                            </li>
-                          </ul>
+                          <h4 className="card-title">RDC</h4>
+                          <p className="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio voluptatem vitae assumenda ea maiores soluta aut velit, molestiae temporibus. Labore quos, illo voluptate repellendus maxime quidem autem sint hic non...</p>
+                          
                         </div>
                       </div>
                     </div>
@@ -83,30 +62,9 @@ const Achievements = () => {
                     <div className="backside">
                       <div className="card">
                         <div className="card-body text-center mt-4">
-                          <h4 className="card-title">Sunlimetech</h4>
-                          <p className="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe ipsum fuga mollitia fugiat, sint vitae, libero aliquam vero alias voluptatum odit delectus dolore laborum quidem doloribus nulla fugit eveniet! Incidunt..</p>
-                          <ul className="list-inline">
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-facebook"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-twitter"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-skype"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-google"></i>
-                              </a>
-                            </li>
-                          </ul>
+                          <h4 className="card-title">rdc</h4>
+                          <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo laudantium similique beatae fugit voluptatibus quam? Veritatis officia enim voluptatibus iste. In voluptate alias nulla modi tempore qui a perferendis porro...</p>
+                          
                         </div>
                       </div>
                     </div>
@@ -133,30 +91,9 @@ const Achievements = () => {
                     <div className="backside">
                       <div className="card">
                         <div className="card-body text-center mt-4">
-                          <h4 className="card-title">Sunlimetech</h4>
-                          <p className="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe ipsum fuga mollitia fugiat, sint vitae, libero aliquam vero alias voluptatum odit delectus dolore laborum quidem doloribus nulla fugit eveniet! Incidunt..</p>
-                          <ul className="list-inline">
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-facebook"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-twitter"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-skype"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-google"></i>
-                              </a>
-                            </li>
-                          </ul>
+                          <h4 className="card-title">RDC</h4>
+                          <p className="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore voluptate exercitationem labore hic, in eos ipsa praesentium repellat, possimus necessitatibus et deleniti amet aliquam magni quaerat deserunt ut architecto aut?..</p>
+                          
                         </div>
                       </div>
                     </div>
@@ -182,30 +119,9 @@ const Achievements = () => {
                     <div className="backside">
                       <div className="card">
                         <div className="card-body text-center mt-4">
-                          <h4 className="card-title">Sunlimetech</h4>
-                          <p className="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe ipsum fuga mollitia fugiat, sint vitae, libero aliquam vero alias voluptatum odit delectus dolore laborum quidem doloribus nulla fugit eveniet! Incidunt..</p>
-                          <ul className="list-inline">
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-facebook"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-twitter"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-skype"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-google"></i>
-                              </a>
-                            </li>
-                          </ul>
+                          <h4 className="card-title">Rdc</h4>
+                          <p className="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum animi officiis molestiae quisquam mollitia pariatur eveniet dolor, ut itaque tempore aperiam optio, eum, corporis eos officia est maiores. Voluptate, ullam?..</p>
+                          
                         </div>
                       </div>
                     </div>
@@ -232,30 +148,9 @@ const Achievements = () => {
                     <div className="backside">
                       <div className="card">
                         <div className="card-body text-center mt-4">
-                          <h4 className="card-title">Sunlimetech</h4>
-                          <p className="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe ipsum fuga mollitia fugiat, sint vitae, libero aliquam vero alias voluptatum odit delectus dolore laborum quidem doloribus nulla fugit eveniet! Incidunt..</p>
-                          <ul className="list-inline">
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-facebook"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-twitter"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-skype"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-google"></i>
-                              </a>
-                            </li>
-                          </ul>
+                          <h4 className="card-title">RDC</h4>
+                          <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, ullam nesciunt quisquam sunt quaerat quas porro, vitae labore incidunt maiores autem eveniet voluptas praesentium necessitatibus culpa repellendus, inventore perspiciatis reiciendis...</p>
+                         
                         </div>
                       </div>
                     </div>
@@ -281,30 +176,9 @@ const Achievements = () => {
                     <div className="backside">
                       <div className="card">
                         <div className="card-body text-center mt-4">
-                          <h4 className="card-title">Sunlimetech</h4>
-                          <p className="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe ipsum fuga mollitia fugiat, sint vitae, libero aliquam vero alias voluptatum odit delectus dolore laborum quidem doloribus nulla fugit eveniet! Incidunt..</p>
-                          <ul className="list-inline">
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-facebook"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-twitter"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-skype"></i>
-                              </a>
-                            </li>
-                            <li className="list-inline-item">
-                              <a className="social-icon text-xs-center" target="_blank" href="/">
-                                <i className="fa fa-google"></i>
-                              </a>
-                            </li>
-                          </ul>
+                          <h4 className="card-title">RDC</h4>
+                          <p className="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt beatae, soluta assumenda harum odit vero? Ullam accusamus perspiciatis beatae ex sed odio animi a similique facilis, consectetur, consequuntur reprehenderit tempora?..</p>
+                          
                         </div>
                       </div>
                     </div>

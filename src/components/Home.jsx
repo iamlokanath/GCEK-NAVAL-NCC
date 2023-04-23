@@ -1,5 +1,7 @@
 import React from 'react'
 import Photo from './slider.jpg'
+import Photo2 from './slider2.jpg'
+import Photo3 from './slider4.jpg'
 const Home = () => {
   return (
     <>
@@ -17,10 +19,10 @@ const Home = () => {
               <img className="d-block w-100" src={Photo} alt="First slide" />
             </div>
             <div className="carousel-item">
-              <img className="d-block w-100" src={Photo} alt="Second slide" />
+              <img className="d-block w-100" src={Photo2} alt="Second slide" />
             </div>
             <div className="carousel-item">
-              <img className="d-block w-100" src={Photo} alt="Third slide" />
+              <img className="d-block w-100" src={Photo3} alt="Third slide" />
             </div>
           </div>
           <a className="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

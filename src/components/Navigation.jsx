@@ -15,16 +15,16 @@ const Navigation = () => {
         <a className="nav-link text-warning font-weight-bold" href="/">Home</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link text-dark" href="/">About Us</a>
+        <a className="nav-link text-dark" href="./About.jsx">About Us</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link text-dark" href="/">Achievements</a>
+        <a className="nav-link text-dark" href="./Achievements.jsx">Achievements</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link text-dark" href="/">Activities</a>
+        <a className="nav-link text-dark" href="./Activities.jsx">Activities</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link text-dark" href="/">Contact Us</a>
+        <a className="nav-link text-dark" href="./ContactUs.jsx">Contact Us</a>
       </li>
     </ul>
   </div>
