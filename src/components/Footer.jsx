@@ -8,13 +8,13 @@ const Footer = () => {
                 <h4 className="text-left text-dark mt-2 ml-5">Find Us On <span>Social Media</span></h4>
                 <h5 className='lokanth ml-5'>Fell free to connect with us</h5>
                 <div className="lokanmiddle ml-4">
-                    <a className="lokanbtn" href="https://www.facebook.com/profile.php?id=100071480734923">
+                    <a className="lokanbtn" href="/">
                         <i className="fa fa-facebook-f"></i>
                     </a>
                     <a className="lokanbtn" href="/">
                         <i className="fa fa-twitter"></i>
                     </a>
-                    <a className="lokanbtn" href="/">
+                    <a className="lokanbtn" href="https://instagram.com/gceknavalncc?igshid=YmMyMTA2M2Y=">
                         <i className="fa fa-instagram"></i>
                     </a>
                     <a className="lokanbtn" href="/">

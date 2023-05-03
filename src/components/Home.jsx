@@ -1,7 +1,7 @@
 import React from 'react'
-import Photo from './slider.jpg'
-import Photo2 from './slider2.jpg'
-import Photo3 from './slider4.jpg'
+import Photo from './Image/slider.jpg'
+import Photo2 from './Image/slider2.jpg'
+import Photo3 from './Image/slider5.jpg'
 const Home = () => {
   return (
     <>

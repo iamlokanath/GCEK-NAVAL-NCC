@@ -19,7 +19,7 @@ const ContactUs = () => {
                             <h2>CONTACT</h2>
                             <p className="information"><span className="icon-location"> ADRESS: </span>Government College Of Engineering, Kalahandi, Bhawanipatna</p>
                             <p className="information"><span className="icon-phone-2"> TELEPHONE: </span>90 90 90 90 90 90</p>
-                            <a className="btn" href="/">Send Email</a>
+                            <a className="btn" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=gceknavalncc@gmail.com&su=Welcome%20to%20GCEK%20,NAVAL%20NCC%20,%20BHAWANIPATNA&body=">Send Email</a>
                             <div className="clear"></div>
                         </div>
                         <div className="grid_8 omega">

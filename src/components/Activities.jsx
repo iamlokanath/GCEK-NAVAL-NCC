@@ -29,7 +29,7 @@ const Activities = () => {
                     <div className="col-md-4 col-sm-6 equal-height">
                         <div className="item">
                             <div className="icon">
-                                <i className="fas fa-headset"></i>
+                                <i className="fas fa-person-military-pointing"></i>
                             </div>
                             <div className="info">
                                 <h4>Drill</h4>
@@ -41,7 +41,7 @@ const Activities = () => {
                     <div className="col-md-4 col-sm-6 equal-height">
                         <div className="item">
                             <div className="icon">
-                                <i className="fas fa-chart-line"></i>
+                                <i className="fas fa-person-hiking"></i>
                             </div>
                             <div className="info">
                                 <h4>Mountain Trekking</h4>
@@ -53,7 +53,7 @@ const Activities = () => {
                     <div className="col-md-4 col-sm-6 equal-height">
                         <div className="item">
                             <div className="icon">
-                                <i className="fas fa-pen-fancy"></i>
+                                <i className="fas fa-sailboat"></i>
                             </div>
                             <div className="info">
                                 <h4>Boat Pooling</h4>
@@ -65,10 +65,10 @@ const Activities = () => {
                     <div className="col-md-4 col-sm-6 equal-height">
                         <div className="item">
                             <div className="icon">
-                                <i className="fas fa-tachometer-alt"></i>
+                                <i className="fas fa-volleyball"></i>
                             </div>
                             <div className="info">
-                                <h4>ATC</h4>
+                                <h4>SPORTS</h4>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
                                 </p>
                             </div>
@@ -77,15 +77,52 @@ const Activities = () => {
                     <div className="col-md-4 col-sm-6 equal-height">
                         <div className="item">
                             <div className="icon">
-                                <i className="fas fa-diagnoses"></i>
+                                <i className="fas fa-person-rifle"></i>
                             </div>
                             <div className="info">
-                                <h4>National Camps</h4>
+                                <h4>Firing</h4>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
                                 </p>
                             </div>
                         </div>
                     </div>
+                    <div className="col-md-4 col-sm-6 equal-height">
+                        <div className="item">
+                            <div className="icon">
+                                <i className="fas fa-tent"></i>
+                            </div>
+                            <div className="info">
+                                <h4>Camps</h4>
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-4 col-sm-6 equal-height">
+                        <div className="item">
+                            <div className="icon">
+                                <i className="fas fa-ship"></i>
+                            </div>
+                            <div className="info">
+                                <h4>Ship Modelling</h4>
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-4 col-sm-6 equal-height">
+                        <div className="item">
+                            <div className="icon">
+                                <i className="fas fa-drum"></i>
+                            </div>
+                            <div className="info">
+                                <h4>Cultural Events</h4>
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                   
             </div>
         </div>
     </section>
