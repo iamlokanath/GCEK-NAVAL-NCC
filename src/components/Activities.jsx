@@ -4,7 +4,7 @@ const Activities = () => {
   return (
     <>
     <section id="features" className="features-area item-full text-center cell-items default-padding">
-        <div className="container">
+        <div className="container" id='activities'>
             <div className="row">
                 <div className="col-md-12">
                     <div className="site-heading text-center">

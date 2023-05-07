@@ -5,7 +5,7 @@ import Photo5 from './photo5.jpg'
 const About = () => {
     return (
         <>
-            <div className="site-heading text-center mt-5">
+            <div className="site-heading text-center mt-5" id="about">
                 <h2>About <span>Us</span></h2>
                 <h4>GCEK Naval NCC, Bhawanipatna</h4>
             </div>

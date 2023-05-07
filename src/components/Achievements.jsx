@@ -12,7 +12,7 @@ const Achievements = () => {
     <>
       <div>
         {/* <!-- Team --> */}
-        <div className="site-heading text-center">
+        <div className="site-heading text-center" id="achievements">
           <h2>
             Our <span>Achivements</span>
           </h2>

@@ -5,7 +5,7 @@ import './ContactUs.css'
 const ContactUs = () => {
     return (
         <>
-            <div className="site-heading text-center">
+            <div className="site-heading text-center" id='contactus'>
                 <h2>Contact <span>Us</span></h2>
                 <h4>Get In Touch With Us: Contact Our Team For Any Queries or Support</h4>
             </div>
